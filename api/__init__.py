@@ -1,0 +1,8 @@
+login_url = 'http://127.0.0.1//api/sign'
+logout_url = 'http://127.0.0.1//api/sign'
+account_url = 'http://127.0.0.1//api/account'
+notice_url = 'http://127.0.0.1//api/notice'
+fb_url = 'http://127.0.0.1//api/config'
+picture_url = 'http://127.0.0.1//api/upload'
+info_url = 'http://127.0.0.1//api/etc'
+work_flow = 'http://127.0.0.1/api/wf_graduatedesign'

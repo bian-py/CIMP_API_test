@@ -1,0 +1,217 @@
+001:
+  - 'http://127.0.0.1//api/account'
+  - 10
+  - 1
+  - '学员'
+  - 200
+  - {
+    "ret": 0,
+    "items": [
+    {
+      "id": 12,
+      "username": "test01",
+      "realname": "学员1",
+      "studentno": "123456",
+      "desc": "123456",
+      "usertype": 2000
+    }
+    ],
+    "total": 1,
+    "keywords": "学员"
+  }
+002:
+  - 'http://127.0.0.1//api/account'
+  - 10
+  - 1
+  - ''
+  - 200
+  - {
+    "ret": 0,
+    "items": [
+    {
+      "id": 13,
+      "username": "Test01",
+      "realname": "老师1",
+      "studentno": "123456",
+      "desc": "123456",
+      "usertype": 3000
+    },
+    {
+      "id": 12,
+      "username": "test01",
+      "realname": "学员1",
+      "studentno": "123456",
+      "desc": "123456",
+      "usertype": 2000
+    },
+    {
+      "id": 11,
+      "username": "xingwurou",
+      "realname": "邢武柔",
+      "studentno": "",
+      "desc": "一个老师",
+      "usertype": 3000
+    },
+    {
+      "id": 10,
+      "username": "ziyiyuan2",
+      "realname": "紫一元2",
+      "studentno": "300015",
+      "desc": "白月黑羽网站的Python老师，创业公司CTO",
+      "usertype": 3000
+    },
+    {
+      "id": 9,
+      "username": "sunquan",
+      "realname": "孙权",
+      "studentno": "",
+      "desc": "",
+      "usertype": 3000
+    },
+    {
+      "id": 8,
+      "username": "caocao",
+      "realname": "曹操",
+      "studentno": "",
+      "desc": "",
+      "usertype": 3000
+    },
+    {
+      "id": 7,
+      "username": "guanyu",
+      "realname": "关羽",
+      "studentno": "guanyu",
+      "desc": "guanyu",
+      "usertype": 2000
+    },
+    {
+      "id": 6,
+      "username": "zhangfei",
+      "realname": "张飞",
+      "studentno": "000036",
+      "desc": "好学生",
+      "usertype": 2000
+    },
+    {
+      "id": 4,
+      "username": "student-2",
+      "realname": "学生-2",
+      "studentno": "00002",
+      "desc": "学生-2",
+      "usertype": 2000
+    },
+    {
+      "id": 3,
+      "username": "student-1",
+      "realname": "学生-1",
+      "studentno": "00001",
+      "desc": "学生-1",
+      "usertype": 2000
+    }
+    ],
+    "total": 11,
+    "keywords": ""
+  }
+003:
+  - 'http://127.0.0.1//api/account'
+  - 10
+  - 2
+  - ''
+  - 200
+  - {
+    "ret": 0,
+    "items": [
+    {
+      "id": 1,
+      "username": "byhy",
+      "realname": "白月黑羽",
+      "studentno": null,
+      "desc": null,
+      "usertype": 1
+    }
+    ],
+    "total": 11,
+    "keywords": ""
+  }
+004:
+  - 'http://127.0.0.1//api/account'
+  - 5
+  - 1
+  - ''
+  - 200
+  - {
+    "ret": 0,
+    "items": [
+    {
+      "id": 13,
+      "username": "Test01",
+      "realname": "老师1",
+      "studentno": "123456",
+      "desc": "123456",
+      "usertype": 3000
+    },
+    {
+      "id": 12,
+      "username": "test01",
+      "realname": "学员1",
+      "studentno": "123456",
+      "desc": "123456",
+      "usertype": 2000
+    },
+    {
+      "id": 11,
+      "username": "xingwurou",
+      "realname": "邢武柔",
+      "studentno": "",
+      "desc": "一个老师",
+      "usertype": 3000
+    },
+    {
+      "id": 10,
+      "username": "ziyiyuan2",
+      "realname": "紫一元2",
+      "studentno": "300015",
+      "desc": "白月黑羽网站的Python老师，创业公司CTO",
+      "usertype": 3000
+    },
+    {
+      "id": 9,
+      "username": "sunquan",
+      "realname": "孙权",
+      "studentno": "",
+      "desc": "",
+      "usertype": 3000
+    }
+    ],
+    "total": 11,
+    "keywords": ""
+  }
+005:
+  - 'http://127.0.0.1//api/account'
+  - 5
+  - 1
+  - '学 1'
+  - 200
+  - {
+    "ret": 0,
+    "items": [
+    {
+      "id": 12,
+      "username": "test01",
+      "realname": "学员1",
+      "studentno": "123456",
+      "desc": "123456",
+      "usertype": 2000
+    },
+    {
+      "id": 3,
+      "username": "student-1",
+      "realname": "学生-1",
+      "studentno": "00001",
+      "desc": "学生-1",
+      "usertype": 2000
+    }
+    ],
+    "total": 2,
+    "keywords": "学 1"
+  }
